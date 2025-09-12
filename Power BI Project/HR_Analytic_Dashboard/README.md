@@ -25,4 +25,4 @@ The dataset was taken from a CSV file, cleaned and transformed in Power Query, a
 - **Data Visualization**  
 
 ## 📸 Dashboard Screenshot
-(Add screenshot here by uploading your dashboard image in this folder and linking it)  
+![Dashboard Screenshot]("C:\Users\chirag tomar\JupyterProject\Power BI Project\HR_Analytic_Dashboard\Dasdhboard.png")
